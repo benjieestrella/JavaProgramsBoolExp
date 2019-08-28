@@ -11,6 +11,7 @@ public class Main {
 
         boolean moreApples;
         boolean applesAreDearer;
+        boolean test;
 
         moreApples = (apples > oranges);
         applesAreDearer = (applePrice > orangePrice);
